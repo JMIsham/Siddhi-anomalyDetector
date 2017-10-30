@@ -98,7 +98,7 @@ public class AnomalyDetectorWithGroup extends AnomalyDetector {
 
     private Object[] detectAnomalyWithSummary(String groupBy, long currentTime){
         HashMap<String,Object[]> subEvents = (HashMap<String, Object[]>) events.get(groupBy);
-        if (subEvents.size() == threshold || (subEvents.size() - threshold) % step ==0) {
+        if (subEvents.size() == threshold || (events.size() > threshold && (events.size() - threshold) % step == 0)) {
             String summaryTable = "<tbody>";
             long minTime = currentTime;
             for (Map.Entry<String, Object[]> subEvent : subEvents.entrySet()) {

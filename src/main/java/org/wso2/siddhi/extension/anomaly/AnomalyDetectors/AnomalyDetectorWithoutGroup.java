@@ -49,15 +49,17 @@ public class AnomalyDetectorWithoutGroup extends AnomalyDetector {
         boolean validEvent = checkEvent(event, this.filters);
         if (validEvent) {
             events.put(privateKey, new Object[]{currentTime, summary});
+            if (summarize) {
+                return detectAnomalyWithSummary(currentTime);
+            } else {
+                return detectAnomalyWihtoutSummary(currentTime);
+            }
         } else {
             events.remove(privateKey);
+            return null;
         }
 
-        if (summarize) {
-            return detectAnomalyWithSummary(currentTime);
-        } else {
-            return detectAnomalyWihtoutSummary(currentTime);
-        }
+
     }
 
     @Override
@@ -85,7 +87,7 @@ public class AnomalyDetectorWithoutGroup extends AnomalyDetector {
     private Object[] detectAnomalyWithSummary(long currentTime) {
         long minTime = currentTime;
         String summaryTable = "<tbody>";
-        if (events.size() == threshold || (events.size() - threshold) % step == 0) {
+        if (events.size() == threshold || (events.size() > threshold && (events.size() - threshold) % step == 0)) {
             for (Map.Entry<String, Object[]> subEvent : events.entrySet()) {
                 Object[] val = subEvent.getValue();
                 if (minTime > (Long) val[0]) {

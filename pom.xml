@@ -83,8 +83,8 @@
                         </Private-Package>
                         <Export-Package>
                             !Jama.*,
-                            org.wso2.siddhi.extension.anomaly,
-                            org.wso2.siddhi.extension.anomaly.*
+                            org.wso2.siddhi.extension.timeseries,
+                            org.wso2.siddhi.extension.timeseries.*
                         </Export-Package>
                         <Import-Package>
                             *;resolution:=optional
