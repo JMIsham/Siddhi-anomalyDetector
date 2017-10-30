@@ -72,7 +72,7 @@ public class EventAnomalyDetectorTestCase {
             Thread.sleep(500);
             inputHandler.send(new Object[]{"011", "456", "WO", "other"});
             Thread.sleep(1000);
-            Assert.assertEquals(6, count);
+            Assert.assertEquals(3, count);
             Assert.assertTrue(eventArrived);
             executionPlanRuntime.shutdown();
 

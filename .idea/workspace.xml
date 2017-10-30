@@ -2,11 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cabd3b2-1888-482b-9dba-f5635f906e09" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/AnomalyDetectorWithGroup.class" afterPath="$PROJECT_DIR$/target/classes/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/AnomalyDetectorWithGroup.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/AnomalyDetectorWithoutGroup.class" afterPath="$PROJECT_DIR$/target/classes/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/AnomalyDetectorWithoutGroup.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/siddhi-extension-timeseries-3.1.3-SNAPSHOT-javadoc.jar" afterPath="$PROJECT_DIR$/target/siddhi-extension-timeseries-3.1.3-SNAPSHOT-javadoc.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/siddhi-extension-timeseries-3.1.3-SNAPSHOT-sources.jar" afterPath="$PROJECT_DIR$/target/siddhi-extension-timeseries-3.1.3-SNAPSHOT-sources.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/siddhi-extension-timeseries-3.1.3-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/siddhi-extension-timeseries-3.1.3-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/org/wso2/siddhi/extension/anomaly/EventAnomalyDetectorTestCase.class" afterPath="$PROJECT_DIR$/target/test-classes/org/wso2/siddhi/extension/anomaly/EventAnomalyDetectorTestCase.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/AnomalyDetectorWithGroup.java" afterPath="$PROJECT_DIR$/src/main/java/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/AnomalyDetectorWithGroup.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/AnomalyDetectorWithoutGroup.java" afterPath="$PROJECT_DIR$/src/main/java/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/AnomalyDetectorWithoutGroup.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/org/wso2/siddhi/extension/anomaly/EventAnomalyDetectorTestCase.java" afterPath="$PROJECT_DIR$/src/test/java/org/wso2/siddhi/extension/anomaly/EventAnomalyDetectorTestCase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/constant-values.html" afterPath="$PROJECT_DIR$/target/apidocs/constant-values.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" afterPath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/help-doc.html" afterPath="$PROJECT_DIR$/target/apidocs/help-doc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/index-all.html" afterPath="$PROJECT_DIR$/target/apidocs/index-all.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/index.html" afterPath="$PROJECT_DIR$/target/apidocs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/AnomalyDetector.html" afterPath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/AnomalyDetector.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/AnomalyDetectorWithGroup.html" afterPath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/AnomalyDetectorWithGroup.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/AnomalyDetectorWithoutGroup.html" afterPath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/AnomalyDetectorWithoutGroup.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/class-use/AnomalyDetector.html" afterPath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/class-use/AnomalyDetector.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/class-use/AnomalyDetectorWithGroup.html" afterPath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/class-use/AnomalyDetectorWithGroup.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/class-use/AnomalyDetectorWithoutGroup.html" afterPath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/class-use/AnomalyDetectorWithoutGroup.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/package-frame.html" afterPath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/package-summary.html" afterPath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/package-tree.html" afterPath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/package-use.html" afterPath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/package-use.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/EventAnomalyDetector.html" afterPath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/EventAnomalyDetector.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/class-use/EventAnomalyDetector.html" afterPath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/class-use/EventAnomalyDetector.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/package-frame.html" afterPath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/package-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/package-summary.html" afterPath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/package-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/package-tree.html" afterPath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/package-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/package-use.html" afterPath="$PROJECT_DIR$/target/apidocs/org/wso2/siddhi/extension/anomaly/package-use.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/overview-frame.html" afterPath="$PROJECT_DIR$/target/apidocs/overview-frame.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/overview-summary.html" afterPath="$PROJECT_DIR$/target/apidocs/overview-summary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/apidocs/overview-tree.html" afterPath="$PROJECT_DIR$/target/apidocs/overview-tree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.wso2.siddhi.extension.anomaly.EventAnomalyDetectorTestCase.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-org.wso2.siddhi.extension.anomaly.EventAnomalyDetectorTestCase.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AnomalyDetectorWithGroup.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AnomalyDetectorWithGroup.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/AnomalyDetectorWithGroup.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="366">
@@ -49,11 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EventAnomalyDetectorTestCase.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="EventAnomalyDetectorTestCase.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/wso2/siddhi/extension/anomaly/EventAnomalyDetectorTestCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="31" column="89" lean-forward="false" selection-start-line="31" selection-start-column="89" selection-end-line="31" selection-end-column="89" />
+            <state relative-caret-position="460">
+              <caret line="32" column="31" lean-forward="false" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -89,11 +120,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/org/wso2/siddhi/extension/anomaly/EventAnomalyDetectorTestCase.java" />
         <option value="$PROJECT_DIR$/src/main/resources/anomaly.siddhiext" />
         <option value="$PROJECT_DIR$/src/main/java/org/wso2/siddhi/extension/anomaly/RedendantAnomalyDetecter.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/AnomalyDetectorWithoutGroup.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/wso2/siddhi/extension/anomaly/AnomalyDetectors/AnomalyDetectorWithGroup.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/wso2/siddhi/extension/anomaly/EventAnomalyDetectorTestCase.java" />
       </list>
     </option>
   </component>
@@ -299,6 +330,32 @@
       <option name="MAIN_CLASS_NAME" value="org.wso2.siddhi.extension.anomaly.EventAnomalyDetectorTestCase" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="EventAnomalyDetectorTestCase.testEventAnomalyDetection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.wso2.siddhi.extension.anomaly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="siddhi-extension-anomaly" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.wso2.siddhi.extension.anomaly" />
+      <option name="MAIN_CLASS_NAME" value="org.wso2.siddhi.extension.anomaly.EventAnomalyDetectorTestCase" />
+      <option name="METHOD_NAME" value="testEventAnomalyDetection" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -572,12 +629,14 @@
       <envs />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="JUnit.EventAnomalyDetectorTestCase" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.EventAnomalyDetectorTestCase.testEventAnomalyDetection" />
     </list>
     <recent_temporary>
-      <list size="1">
+      <list size="2">
         <item index="0" class="java.lang.String" itemvalue="JUnit.EventAnomalyDetectorTestCase" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.EventAnomalyDetectorTestCase.testEventAnomalyDetection" />
       </list>
     </recent_temporary>
   </component>
@@ -597,6 +656,14 @@
       <option name="presentableId" value="Default" />
       <updated>1509111595687</updated>
     </task>
+    <task id="LOCAL-00001" summary="some bug fix">
+      <created>1509342827617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1509342827617</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -609,6 +676,24 @@
     <history-entry file="EventAnomalyDetectorTestCase - 2017.10.27 at 19h 19m 36s.xml">
       <configuration name="EventAnomalyDetectorTestCase" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="EventAnomalyDetectorTestCase - 2017.10.30 at 11h 31m 58s.xml">
+      <configuration name="EventAnomalyDetectorTestCase" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EventAnomalyDetectorTestCase - 2017.10.30 at 11h 33m 45s.xml">
+      <configuration name="EventAnomalyDetectorTestCase" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EventAnomalyDetectorTestCase_testEventAnomalyDetection - 2017.10.30 at 11h 25m 23s.xml">
+      <configuration name="EventAnomalyDetectorTestCase.testEventAnomalyDetection" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EventAnomalyDetectorTestCase_testEventAnomalyDetection - 2017.10.30 at 11h 28m 40s.xml">
+      <configuration name="EventAnomalyDetectorTestCase.testEventAnomalyDetection" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EventAnomalyDetectorTestCase_testEventAnomalyDetection - 2017.10.30 at 11h 30m 49s.xml">
+      <configuration name="EventAnomalyDetectorTestCase.testEventAnomalyDetection" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EventAnomalyDetectorTestCase_testEventAnomalyDetection - 2017.10.30 at 11h 31m 17s.xml">
+      <configuration name="EventAnomalyDetectorTestCase.testEventAnomalyDetection" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1031" extended-state="6" />
@@ -617,15 +702,16 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286638" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -639,13 +725,16 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="some bug fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="some bug fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -722,14 +811,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/wso2/siddhi/extension/anomaly/EventAnomalyDetectorTestCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="31" column="89" lean-forward="false" selection-start-line="31" selection-start-column="89" selection-end-line="31" selection-end-column="89" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/wso2/siddhi/extension/anomaly/EventAnomalyDetector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2880">
@@ -750,6 +831,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="366">
           <caret line="100" column="77" lean-forward="false" selection-start-line="100" selection-start-column="77" selection-end-line="100" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/wso2/siddhi/extension/anomaly/EventAnomalyDetectorTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="32" column="31" lean-forward="false" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
           <folding />
         </state>
       </provider>

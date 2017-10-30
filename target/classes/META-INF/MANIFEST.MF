@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1509112211987
+Bnd-LastModified: 1509343345675
 Build-Jdk: 1.8.0_131
 Built-By: isham
 Bundle-Description: Siddhi, high performing Complex Event Processing Eng
@@ -13,25 +13,5 @@ Bundle-Vendor: WSO2
 Bundle-Version: 3.1.3.SNAPSHOT
 Created-By: Apache Maven Bundle Plugin
 DynamicImport-Package: *
-Export-Package: org.wso2.siddhi.extension.anomaly;uses:="org.wso2.siddhi
- .extension.anomaly.AnomalyDetectors,org.wso2.siddhi.core.event.stream,o
- rg.wso2.siddhi.core.query.processor.stream,org.wso2.siddhi.core.util.ti
- mestamp,org.wso2.siddhi.core.config,org.wso2.siddhi.core.event,org.wso2
- .siddhi.core.executor,org.wso2.siddhi.core.query.processor,org.wso2.sid
- dhi.core.exception,org.wso2.siddhi.query.api.definition,org.wso2.siddhi
- .core.event.stream.populater";version="3.1.3.SNAPSHOT",org.wso2.siddhi.
- extension.anomaly.AnomalyDetectors;uses:="org.wso2.siddhi.core.event,or
- g.wso2.siddhi.core.executor";version="3.1.3.SNAPSHOT"
-Import-Package: Jama.util;resolution:=optional,org.wso2.siddhi.core.conf
- ig;version="[3.1,4)";resolution:=optional,org.wso2.siddhi.core.event;ve
- rsion="[3.1,4)";resolution:=optional,org.wso2.siddhi.core.event.stream;
- version="[3.1,4)";resolution:=optional,org.wso2.siddhi.core.event.strea
- m.populater;version="[3.1,4)";resolution:=optional,org.wso2.siddhi.core
- .exception;version="[3.1,4)";resolution:=optional,org.wso2.siddhi.core.
- executor;version="[3.1,4)";resolution:=optional,org.wso2.siddhi.core.qu
- ery.processor;version="[3.1,4)";resolution:=optional,org.wso2.siddhi.co
- re.query.processor.stream;version="[3.1,4)";resolution:=optional,org.ws
- o2.siddhi.core.util.timestamp;version="[3.1,4)";resolution:=optional,or
- g.wso2.siddhi.query.api.definition;version="[3.1,4)";resolution:=option
- al
+Import-Package: Jama.util;resolution:=optional
 Tool: Bnd-1.50.0
